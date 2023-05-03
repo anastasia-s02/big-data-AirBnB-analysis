@@ -1,6 +1,6 @@
 # AirBnB Project
 
-This repository contains the code and files that created by Anastasia Samoilova for final project for Processing Big Data for Analytic Applications class. 
+This repository contains the code and files that were created by Anastasia Samoilova for final project for Processing Big Data for Analytic Applications class. 
 
 
 ## Folder overview.
